@@ -1,0 +1,1 @@
+<?php return "<div class='xcart-category-menu horizontal'><ul></ul></div>" ?>

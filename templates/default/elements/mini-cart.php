@@ -1,0 +1,1 @@
+<?php return "<div id='xcart-mini-cart'></div>" ?>

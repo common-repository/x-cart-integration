@@ -1,0 +1,38 @@
+/**
+ * CSS of admin part
+ *
+ * @author    Qualiteam software Ltd <info@x-cart.com>
+ * @copyright Copyright (c) 2011-2015 Qualiteam software Ltd <info@x-cart.com>. All rights reserved
+ * @license   http://www.x-cart.com/license-agreement.html X-Cart 5 License Agreement
+ * @link      http://www.x-cart.com/
+ */
+
+/*
+  X-Cart imtegration admin CSS-style
+*/
+.xcart-widget .widget-top h4 {
+  padding-left: 42px;
+}
+.xcart-widget .widget-top h4:before {
+  content: "";
+  background: url('../images/xcart-logo.svg');
+  background-size: cover;
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  top: 10px;
+  left: 14px;
+  margin-right: -4px;
+  line-height: 10px;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #1d7ac4;
+  opacity: .5;
+}
+.xcart-widget .widget-top:hover h4:before { opacity: 1; }

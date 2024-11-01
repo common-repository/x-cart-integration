@@ -1,0 +1,1 @@
+<?php return "<div id='xcart-search-widget'></div>" ?>

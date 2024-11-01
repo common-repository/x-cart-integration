@@ -1,0 +1,1 @@
+<?php return "<div class='xcart-modal'>    <div class='xcart-btn-close-popup'>        <a href='javascript: void(0);' do-action='hide-cart'>&nbsp;</a>    </div>    <div class='xcart-product-grid' data-categoryId='0' data-gridSize='5'></div>    <div class='clear'></div></div>" ?>

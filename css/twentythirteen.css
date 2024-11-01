@@ -1,0 +1,18 @@
+/**
+ * Additional css
+ *
+ * @author    Qualiteam software Ltd <info@x-cart.com>
+ * @copyright Copyright (c) 2011-2015 Qualiteam software Ltd <info@x-cart.com>. All rights reserved
+ * @license   http://www.x-cart.com/license-agreement.html X-Cart 5 License Agreement
+ * @link      http://www.x-cart.com/
+ */
+
+/*
+  additional styles for TWENTYTHIRTEEN theme
+*/
+#xcart-cart input.btn-checkout {
+  background: #e05d22;
+  background: -webkit-linear-gradient(top, #e05d22 0%, #d94412 100%);
+  background: linear-gradient(to bottom, #e05d22 0%, #d94412 100%);
+  padding-right: 10px;
+}

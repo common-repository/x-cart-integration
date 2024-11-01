@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.7.4\n"
+
+msgid "Search results"
+msgstr "Результаты поиска"
+
+msgid "zero products found"
+msgstr "найдено 0 продуктов"
+
+msgid "Checkout"
+msgstr "Оформить заказ"
+
+msgid "out of stock"
+msgstr "нет в наличии"
+
+msgid "delete"
+msgstr "удалить"
+
+msgid "Your cart"
+msgstr "Ваша корзина"
+
+msgid "Update cart"
+msgstr "Обновить"
+
+msgid "Continue shopping"
+msgstr "Продолжить покупки"
+
+msgid "Clear cart"
+msgstr "Очистить корзину"
+
+msgid "View cart"
+msgstr "Ваша корзина"
+
+msgid "previous product"
+msgstr "предыдущий"
+
+msgid "next product"
+msgstr "следующий"
+
+msgid "SKU"
+msgstr "артикул"
+
+msgid "In stock"
+msgstr "В наличии"
+
+msgid "items available"
+msgstr "продутов доступно"
+
+msgid "Coming soon"
+msgstr "Скоро"
+
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "sale"
+msgstr "распродажа"
+
+msgid "Old price"
+msgstr "Старая цена"
+
+msgid "you save"
+msgstr "вы экономите"
+
+msgid "Back to search results"
+msgstr "Назад к результатам поиска"
+
+msgid "Previous"
+msgstr "Предыдущая"
+
+msgid "Next"
+msgstr "Следущая"
+
+msgid "Sort by"
+msgstr "Сортировать по"
+
+msgid "name"
+msgstr "название"
+
+msgid "price"
+msgstr "цена"
+
+msgid "recommended"
+msgstr "мы рекомендуем"
+
+msgid "Product has been added"
+msgstr "Продукт был добавлен в корзину"
+
+msgid "Search items"
+msgstr "Искать продукты..."
+
+msgid "To search"
+msgstr "Искать"
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "You should add a shortcode to put widgets with a list of products or a single product. Shortcodes are in product and category settings in the X-Cart shop under the WP code tab"
+msgstr "Вы должны добавить шорткод для вставки виджетов со списком продуктов или одного продукта. Шорткоды находятся в настройках продукта или категории в X-Cart магазине во вкладке WP code"
+
+msgid "Enter your store url here"
+msgstr "Введите URL вашего магазина"
+
+msgid "Enter your X-Cart SSO secret key from module settings"
+msgstr "Введите ваш SSO secret key из настроек модуля в X-Cart"
+
+msgid "Store url"
+msgstr "URL вашего магазина"
+
+msgid "Size of product images box"
+msgstr "Размер контейнера для продуктовых картинок"
+
+msgid "Box size"
+msgstr "Размер контейнера"
+
+msgid "Template"
+msgstr "Шаблон"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "X-Cart Integration settings"
+msgstr "Настройки интеграции с X-Cart"
+
+msgid "Store"
+msgstr "Магазин"
+
+msgid "X-Cart Minicart widget"
+msgstr "X-Cart Корзина"
+
+msgid "X-Cart Search widget"
+msgstr "X-Cart Виджет поиска"
+
+msgid "X-Cart Search"
+msgstr "X-Cart Поиск"
+
+msgid "Product search"
+msgstr "Поиск продуктов"
+
+msgid "X-Cart Categories menu"
+msgstr "X-Cart Меню категорий"
+
+msgid "X-Cart Categories"
+msgstr "X-Cart Categories"
+
+msgid "Shop categories"
+msgstr "Категории магазина"
+
